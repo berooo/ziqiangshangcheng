@@ -1,0 +1,58 @@
+[ 2017-08-14T10:21:51+08:00 ] 0.0.0.0 /think/index.php/ProductRequst?recommend=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001715s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001986s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003293s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_product` [ RunTime:0.302523s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_product` WHERE ( `IsRecommend` = 1 ) ORDER BY productid desc  [ RunTime:0.087297s ]
+
+[ 2017-08-14T10:21:53+08:00 ] 0.0.0.0 /think/index.php/Login?code=001I9FKf0goRIx1s5JKf0oItKf0I9FKQ
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.079047s ]
+INFO: [ route_check ] --END-- [ RunTime:0.120655s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.027943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028181s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-14T10:22:04+08:00 ] 0.0.0.0 /think/index.php/ProductRequst/imgrequest?id=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003867s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004007s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-14T21:36:15+08:00 ] 0.0.0.0 /think/index.php/ProductRequst?recommend=true
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.023253s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024428s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013344s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_product` [ RunTime:0.134967s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_product` WHERE ( `IsRecommend` = 1 ) ORDER BY productid desc  [ RunTime:0.007709s ]
+
+[ 2017-08-14T21:36:16+08:00 ] 0.0.0.0 /think/index.php/Login?code=011hqFb60N3HsH13neb60D7Cb60hqFbo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.022420s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023225s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013315s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+

@@ -1,0 +1,1681 @@
+[ 2017-08-06T00:01:02+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=2323&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000917s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001054s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:01:04+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001921s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002195s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001758s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001376s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000674s ]
+
+[ 2017-08-06T00:01:21+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000746s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001318s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000299s ]
+SQL: UPDATE `hd_user` SET `password`='' WHERE ( `userid` = 0 ) [ RunTime:0.050642s ]
+
+[ 2017-08-06T00:33:51+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002520s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002854s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:34:32+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000802s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:34:46+08:00 ] 0.0.0.0 /think/index.php/Login?code=0617qxww0Xtgug14w7vw0jOHww07qxwl
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000849s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000993s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:34:58+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=34234&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000710s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000846s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:35:00+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001830s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002169s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002106s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:35:22+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001016s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001199s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:36:14+08:00 ] 0.0.0.0 /think/index.php/Login?code=041GnOZo1RYHXn0So3Yo1EHZZo1GnOZx
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000913s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001410s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:36:25+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=2342434&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000904s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001046s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:36:27+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001411s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001660s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001322s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000505s ]
+
+[ 2017-08-06T00:36:42+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001110s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001267s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001412s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000322s ]
+SQL: UPDATE `hd_user` SET `password`='' WHERE ( `userid` = 0 ) [ RunTime:0.000259s ]
+
+[ 2017-08-06T00:36:53+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002652s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003025s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002122s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000710s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000293s ]
+SQL: UPDATE `hd_user` SET `password`='' WHERE ( `userid` = 0 ) [ RunTime:0.000264s ]
+
+[ 2017-08-06T00:36:54+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000775s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000915s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000587s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000255s ]
+SQL: UPDATE `hd_user` SET `password`='' WHERE ( `userid` = 0 ) [ RunTime:0.000204s ]
+
+[ 2017-08-06T00:37:19+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003306s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003582s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000697s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000338s ]
+SQL: UPDATE `hd_user` SET `password`='' WHERE ( `userid` = 0 ) [ RunTime:0.000315s ]
+
+[ 2017-08-06T00:38:01+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000781s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000921s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000696s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000265s ]
+SQL: UPDATE `hd_user` SET `password`='' WHERE ( `userid` = 0 ) [ RunTime:0.000232s ]
+
+[ 2017-08-06T00:38:38+08:00 ] 0.0.0.0 /think/index.php/Login?code=011Vtuok1esloj0Soyrk1zg5ok1Vtuol
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001288s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001427s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:38:51+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=3456&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000805s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000929s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:38:53+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001470s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001714s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006283s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000989s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000570s ]
+
+[ 2017-08-06T00:39:06+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001285s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001514s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004332s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000763s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000563s ]
+
+[ 2017-08-06T00:39:51+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001442s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002313s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:41:27+08:00 ] 0.0.0.0 /think/index.php/Login?code=031t1jdj2mZt1J0k1qdj2n7idj2t1jd7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000980s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001112s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:41:55+08:00 ] 0.0.0.0 /think/index.php/Login?code=041Yfz4D0qNyHg2s9s3D0X2t4D0Yfz4h
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001751s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002070s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002063s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:42:07+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=23&mobile=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001067s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001201s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:42:09+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001875s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002163s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000913s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13992128496','12345678') [ RunTime:0.000409s ]
+
+[ 2017-08-06T00:42:20+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A14%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2016%3A42%3A09%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Di08e2s7h0pcrn80lvp1sl321p0%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%222%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000885s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001018s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:44:26+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A14%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2016%3A42%3A09%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Di08e2s7h0pcrn80lvp1sl321p0%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%222%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001697s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001974s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:45:14+08:00 ] 0.0.0.0 /think/index.php/Login?code=011Ip3hQ0ouyKb2guoiQ0S8ahQ0Ip3hl
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000818s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:45:26+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=1233434&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000759s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000892s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:45:27+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001916s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:45:43+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A%22%3C!DOCTYPE%20html%20PUBLIC%20%5C%22-%2F%2FW3C%2F%2FDTD%20XHTML%201.0%20Transitional%2F%2FEN%5C%22%20%5C%22http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd%5C%22%3E%5Cr%5Cn%3Chtml%20xmlns%3D%5C%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%5C%22%3E%3Chead%3E%5Cr%5Cn%3Cmeta%20content%3D%5C%22text%2Fhtml%3B%20charset%3Dutf-8%5C%22%20http-equiv%3D%5C%22Content-Type%5C%22%3E%5Cr%5Cn%3Ctitle%3E%E7%B3%BB%E7%BB%9F%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%3C%2Ftitle%3E%5Cr%5Cn%3Cstyle%20type%3D%5C%22text%2Fcss%5C%22%3E%5Cr%5Cn*%7B%20padding%3A%200%3B%20margin%3A%200%3B%20%7D%5Cr%5Cnhtml%7B%20overflow-y%3A%20scroll%3B%20%7D%5Cr%5Cnbody%7B%20background%3A%20%23fff%3B%20font-family%3A%20%27%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91%27%3B%20color%3A%20%23333%3B%20font-size%3A%2016px%3B%20%7D%5Cr%5Cnimg%7B%20border%3A%200%3B%20%7D%5Cr%5Cn.error%7B%20padding%3A%2024px%2048px%3B%20%7D%5Cr%5Cn.face%7B%20font-size%3A%20100px%3B%20font-weight%3A%20normal%3B%20line-height%3A%20120px%3B%20margin-bottom%3A%2012px%3B%20%7D%5Cr%5Cnh1%7B%20font-size%3A%2032px%3B%20line-height%3A%2048px%3B%20%7D%5Cr%5Cn.error%20.content%7B%20padding-top%3A%2010px%7D%5Cr%5Cn.error%20.info%7B%20margin-bottom%3A%2012px%3B%20%7D%5Cr%5Cn.error%20.info%20.title%7B%20margin-bottom%3A%203px%3B%20%7D%5Cr%5Cn.error%20.info%20.title%20h3%7B%20color%3A%20%23000%3B%20font-weight%3A%20700%3B%20font-size%3A%2016px%3B%20%7D%5Cr%5Cn.error%20.info%20.text%7B%20line-height%3A%2024px%3B%20%7D%5Cr%5Cn.copyright%7B%20padding%3A%2012px%2048px%3B%20color%3A%20%23999%3B%20%7D%5Cr%5Cn.copyright%20a%7B%20color%3A%20%23000%3B%20text-decoration%3A%20none%3B%20%7D%5Cr%5Cn%3C%2Fstyle%3E%5Cr%5Cn%3C%2Fhead%3E%5Cr%5Cn%3Cbody%3E%5Cr%5Cn%3Cdiv%20class%3D%5C%22error%5C%22%3E%5Cr%5Cn%3Cp%20class%3D%5C%22face%5C%22%3E%3A(%3C%2Fp%3E%5Cr%5Cn%3Ch1%3Esyntax%20error%2C%20unexpected%20%27%24res1%27%20(T_VARIABLE)%3C%2Fh1%3E%5Cr%5Cn%3Cdiv%20class%3D%5C%22content%5C%22%3E%5Cr%5Cn%5Ct%3Cdiv%20class%3D%5C%22info%5C%22%3E%5Cr%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22title%5C%22%3E%5Cr%5Cn%5Ct%5Ct%5Ct%3Ch3%3E%E9%94%99%E8%AF%AF%E4%BD%8D%E7%BD%AE%3C%2Fh3%3E%5Cr%5Cn%5Ct%5Ct%3C%2Fdiv%3E%5Cr%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22text%5C%22%3E%5Cr%5Cn%5Ct%5Ct%5Ct%3Cp%3EFILE%3A%20C%3A%5C%5Cwamp64%5C%5Cwww%5C%5Cthink%5C%5CIndex%5C%5CLib%5C%5CAction%5C%5CLoginAction.class.php%20%26%2312288%3BLINE%3A%2053%3C%2Fp%3E%5Cr%5Cn%5Ct%5Ct%3C%2Fdiv%3E%5Cr%5Cn%5Ct%3C%2Fdiv%3E%5Cr%5Cn%3C%2Fdiv%3E%5Cr%5Cn%3C%2Fdiv%3E%5Cr%5Cn%3Cdiv%20class%3D%5C%22copyright%5C%22%3E%5Cr%5Cn%3Cp%3E%3Ca%20title%3D%5C%22%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99%5C%22%20href%3D%5C%22http%3A%2F%2Fwww.thinkphp.cn%5C%22%3EThinkPHP%3C%2Fa%3E%3Csup%3E3.1.3%3C%2Fsup%3E%20%7B%20Fast%20%26%20Simple%20OOP%20PHP%20Framework%20%7D%20--%20%5B%20WE%20CAN%20DO%20IT%20JUST%20THINK%20%5D%3C%2Fp%3E%5Cr%5Cn%3C%2Fdiv%3E%5Cr%5Cn%3C%2Fbody%3E%5Cr%5Cn%3C%2Fhtml%3E%22%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2016%3A45%3A27%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Dl3dic900vfhj2pefb7jlepub33%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%221555%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=34234
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001604s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:45:54+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A%22%3C!DOCTYPE%20html%20PUBLIC%20%5C%22-%2F%2FW3C%2F%2FDTD%20XHTML%201.0%20Transitional%2F%2FEN%5C%22%20%5C%22http%3A%2F%2Fwww.w3.org%2FTR%2Fxhtml1%2FDTD%2Fxhtml1-transitional.dtd%5C%22%3E%5Cr%5Cn%3Chtml%20xmlns%3D%5C%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%5C%22%3E%3Chead%3E%5Cr%5Cn%3Cmeta%20content%3D%5C%22text%2Fhtml%3B%20charset%3Dutf-8%5C%22%20http-equiv%3D%5C%22Content-Type%5C%22%3E%5Cr%5Cn%3Ctitle%3E%E7%B3%BB%E7%BB%9F%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%3C%2Ftitle%3E%5Cr%5Cn%3Cstyle%20type%3D%5C%22text%2Fcss%5C%22%3E%5Cr%5Cn*%7B%20padding%3A%200%3B%20margin%3A%200%3B%20%7D%5Cr%5Cnhtml%7B%20overflow-y%3A%20scroll%3B%20%7D%5Cr%5Cnbody%7B%20background%3A%20%23fff%3B%20font-family%3A%20%27%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91%27%3B%20color%3A%20%23333%3B%20font-size%3A%2016px%3B%20%7D%5Cr%5Cnimg%7B%20border%3A%200%3B%20%7D%5Cr%5Cn.error%7B%20padding%3A%2024px%2048px%3B%20%7D%5Cr%5Cn.face%7B%20font-size%3A%20100px%3B%20font-weight%3A%20normal%3B%20line-height%3A%20120px%3B%20margin-bottom%3A%2012px%3B%20%7D%5Cr%5Cnh1%7B%20font-size%3A%2032px%3B%20line-height%3A%2048px%3B%20%7D%5Cr%5Cn.error%20.content%7B%20padding-top%3A%2010px%7D%5Cr%5Cn.error%20.info%7B%20margin-bottom%3A%2012px%3B%20%7D%5Cr%5Cn.error%20.info%20.title%7B%20margin-bottom%3A%203px%3B%20%7D%5Cr%5Cn.error%20.info%20.title%20h3%7B%20color%3A%20%23000%3B%20font-weight%3A%20700%3B%20font-size%3A%2016px%3B%20%7D%5Cr%5Cn.error%20.info%20.text%7B%20line-height%3A%2024px%3B%20%7D%5Cr%5Cn.copyright%7B%20padding%3A%2012px%2048px%3B%20color%3A%20%23999%3B%20%7D%5Cr%5Cn.copyright%20a%7B%20color%3A%20%23000%3B%20text-decoration%3A%20none%3B%20%7D%5Cr%5Cn%3C%2Fstyle%3E%5Cr%5Cn%3C%2Fhead%3E%5Cr%5Cn%3Cbody%3E%5Cr%5Cn%3Cdiv%20class%3D%5C%22error%5C%22%3E%5Cr%5Cn%3Cp%20class%3D%5C%22face%5C%22%3E%3A(%3C%2Fp%3E%5Cr%5Cn%3Ch1%3Esyntax%20error%2C%20unexpected%20%27%24res1%27%20(T_VARIABLE)%3C%2Fh1%3E%5Cr%5Cn%3Cdiv%20class%3D%5C%22content%5C%22%3E%5Cr%5Cn%5Ct%3Cdiv%20class%3D%5C%22info%5C%22%3E%5Cr%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22title%5C%22%3E%5Cr%5Cn%5Ct%5Ct%5Ct%3Ch3%3E%E9%94%99%E8%AF%AF%E4%BD%8D%E7%BD%AE%3C%2Fh3%3E%5Cr%5Cn%5Ct%5Ct%3C%2Fdiv%3E%5Cr%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22text%5C%22%3E%5Cr%5Cn%5Ct%5Ct%5Ct%3Cp%3EFILE%3A%20C%3A%5C%5Cwamp64%5C%5Cwww%5C%5Cthink%5C%5CIndex%5C%5CLib%5C%5CAction%5C%5CLoginAction.class.php%20%26%2312288%3BLINE%3A%2053%3C%2Fp%3E%5Cr%5Cn%5Ct%5Ct%3C%2Fdiv%3E%5Cr%5Cn%5Ct%3C%2Fdiv%3E%5Cr%5Cn%3C%2Fdiv%3E%5Cr%5Cn%3C%2Fdiv%3E%5Cr%5Cn%3Cdiv%20class%3D%5C%22copyright%5C%22%3E%5Cr%5Cn%3Cp%3E%3Ca%20title%3D%5C%22%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99%5C%22%20href%3D%5C%22http%3A%2F%2Fwww.thinkphp.cn%5C%22%3EThinkPHP%3C%2Fa%3E%3Csup%3E3.1.3%3C%2Fsup%3E%20%7B%20Fast%20%26%20Simple%20OOP%20PHP%20Framework%20%7D%20--%20%5B%20WE%20CAN%20DO%20IT%20JUST%20THINK%20%5D%3C%2Fp%3E%5Cr%5Cn%3C%2Fdiv%3E%5Cr%5Cn%3C%2Fbody%3E%5Cr%5Cn%3C%2Fhtml%3E%22%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2016%3A45%3A27%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Dl3dic900vfhj2pefb7jlepub33%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%221555%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=34234
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001756s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:47:35+08:00 ] 0.0.0.0 /think/index.php/Login?code=041AMzT71JZrAP1FVaS71yOyT71AMzT0
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000998s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001130s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:47:48+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=138976&mobile=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000891s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001046s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:47:50+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001695s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001922s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:49:32+08:00 ] 0.0.0.0 /think/index.php/Login?code=031c5wy50MNu1I18fiB50ESLy50c5wyZ
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000778s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000902s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:49:38+08:00 ] 0.0.0.0 /think/index.php/Login?code=081UwGUT1H5UO81FP0ST1sDXUT1UwGUK
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001123s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001263s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:49:50+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=324234&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000838s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000968s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:49:51+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002609s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003109s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:53:04+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001398s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001626s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:53:08+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001555s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001771s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:53:11+08:00 ] 0.0.0.0 /think/index.php/Login?code=011go9RR1qwsaa1spHPR12spRR1go9R-
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001693s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001944s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:53:20+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=23242343&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000786s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000911s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:53:22+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002062s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002345s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:54:45+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001397s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001639s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001265s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T00:55:31+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001847s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002105s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.020930s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000372s ]
+
+[ 2017-08-06T00:57:07+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000930s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001067s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001294s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001747s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 15 ) LIMIT 1   [ RunTime:0.000516s ]
+NOTIC: [8] Array to string conversion C:\wamp64\www\think\Index\Lib\Action\LoginAction.class.php 第 59 行.
+
+[ 2017-08-06T00:57:50+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001690s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002047s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001203s ]
+SQL: UPDATE `hd_user` SET `password`='12345' WHERE ( `userid` = 15 ) [ RunTime:0.000680s ]
+
+[ 2017-08-06T01:01:12+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001996s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002277s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000695s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000337s ]
+
+[ 2017-08-06T01:01:12+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002160s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002584s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.016121s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000286s ]
+
+[ 2017-08-06T01:01:18+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000929s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001064s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001258s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000338s ]
+
+[ 2017-08-06T01:01:48+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001594s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001954s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001240s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `hd_user` WHERE ( `userid` = 15 ) LIMIT 1   [ RunTime:0.000326s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp64\www\think\Index\Lib\Action\LoginAction.class.php 第 59 行.
+NOTIC: [8] Array to string conversion C:\wamp64\www\think\Index\Lib\Action\LoginAction.class.php 第 59 行.
+
+[ 2017-08-06T01:03:18+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000781s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000925s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002607s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 15 ) LIMIT 1   [ RunTime:0.000588s ]
+
+[ 2017-08-06T01:06:08+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001288s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001467s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000671s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 15 ) LIMIT 1   [ RunTime:0.000319s ]
+
+[ 2017-08-06T01:13:09+08:00 ] 0.0.0.0 /think/index.php/Login?code=031Wxv6i2Iu0EF0GGX5i2vLt6i2Wxv6N
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000971s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001100s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:13:22+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=124345&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000797s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000922s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:13:24+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001496s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001748s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002349s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001005s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000546s ]
+
+[ 2017-08-06T01:13:40+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A16%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2017%3A13%3A24%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3D1u11vg52bfh711h6uo7gp8arb6%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%222%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000838s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000972s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001689s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000572s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000316s ]
+
+[ 2017-08-06T01:14:57+08:00 ] 0.0.0.0 /think/index.php/Login?code=041o6Ft30IwLQE1W9Fx30wNDt30o6FtT
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002005s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002325s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002006s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:15:12+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=23423&mobile=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000951s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001073s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:15:13+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001490s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001783s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001970s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001050s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000645s ]
+
+[ 2017-08-06T01:15:30+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A17%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2017%3A15%3A13%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Dqc98mpfrvo2fsv565ibt4c0tc1%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%222%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=11111
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001238s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001484s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003053s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000942s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000284s ]
+
+[ 2017-08-06T01:16:49+08:00 ] 0.0.0.0 /think/index.php/Login?code=011BfQrf2EH57E0Iunsf2ecxrf2BfQrx
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000838s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000984s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:17:02+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=343243&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000764s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000917s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:17:04+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001817s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002184s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002647s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000986s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000569s ]
+
+[ 2017-08-06T01:17:27+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A18%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2017%3A17%3A04%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Ducduft2qa3aq5a14iueko5eqh1%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%222%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=111
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001027s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001160s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000625s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000311s ]
+
+[ 2017-08-06T01:20:00+08:00 ] 0.0.0.0 /think/index.php/Login?code=061m8wGU1taWDT01RWHU1KMjGU1m8wGC
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000924s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001070s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:20:12+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=3243543&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000807s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000950s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:20:13+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001560s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001833s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001563s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002109s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.012105s ]
+
+[ 2017-08-06T01:20:25+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A1%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2017%3A20%3A13%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Dkedeqktmqqtl8majfrn2ttqp34%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%221%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=111
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000886s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001647s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000334s ]
+
+[ 2017-08-06T01:20:55+08:00 ] 0.0.0.0 /think/index.php/Login?code=041FfnWN11Es451iEpXN1BQqWN1FfnWo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000754s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:21:07+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=232423&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001304s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001492s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:21:09+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001719s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001985s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002010s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002033s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000533s ]
+
+[ 2017-08-06T01:21:24+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A2%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2017%3A21%3A09%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Dkabn829rer06s258e8qmoj6mi0%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%221%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000838s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000992s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001466s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000298s ]
+
+[ 2017-08-06T01:22:17+08:00 ] 0.0.0.0 /think/index.php/Login?code=081nGhvx1xL7rf0cTesx1mn9vx1nGhvM
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001370s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001818s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:22:28+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=232434&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001259s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001481s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:22:30+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001517s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001826s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001545s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002379s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000726s ]
+
+[ 2017-08-06T01:22:41+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=%7B%22data%22%3A1%2C%22header%22%3A%7B%22Date%22%3A%22Sat%2C%2005%20Aug%202017%2017%3A22%3A30%20GMT%22%2C%22Server%22%3A%22Apache%2F2.4.23%20(Win64)%20PHP%2F5.6.25%22%2C%22X-Powered-By%22%3A%22PHP%2F5.6.25%22%2C%22Set-Cookie%22%3A%22PHPSESSID%3Dmhlg9aqdhtobltutqalocb4kd6%3B%20path%3D%2F%22%2C%22Expires%22%3A%22Thu%2C%2019%20Nov%201981%2008%3A52%3A00%20GMT%22%2C%22Cache-Control%22%3A%22no-store%2C%20no-cache%2C%20must-revalidate%2C%20post-check%3D0%2C%20pre-check%3D0%22%2C%22Pragma%22%3A%22no-cache%22%2C%22Content-Length%22%3A%221%22%2C%22Keep-Alive%22%3A%22timeout%3D5%2C%20max%3D99%22%2C%22Connection%22%3A%22Keep-Alive%22%2C%22Content-Type%22%3A%22text%2Fhtml%3B%20charset%3DUTF-8%22%7D%2C%22statusCode%22%3A200%2C%22errMsg%22%3A%22request%3Aok%22%7D&oldpassword=12345678&newpassword=11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001091s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001274s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001233s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 0 ) LIMIT 1   [ RunTime:0.000340s ]
+
+[ 2017-08-06T01:27:20+08:00 ] 0.0.0.0 /think/index.php/Login?code=071rsjXZ0mvA722srJYZ0XpkXZ0rsjX4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001052s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001216s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:27:40+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=2342343&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000780s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000923s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:27:41+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000858s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001873s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hsh','134566','12345678') [ RunTime:0.000533s ]
+
+[ 2017-08-06T01:27:58+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=2&oldpassword=12345678&newpassword=11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000975s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001151s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 2 ) LIMIT 1   [ RunTime:0.000293s ]
+SQL: UPDATE `hd_user` SET `password`='11' WHERE ( `userid` = 2 ) [ RunTime:0.000423s ]
+
+[ 2017-08-06T01:30:17+08:00 ] 0.0.0.0 /think/index.php/Login?code=051exOTD04WRef2jwFTD0qvTTD0exOTX
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001013s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001180s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:30:29+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=123567&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000797s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000932s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:30:30+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001385s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001639s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001968s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000891s ]
+
+[ 2017-08-06T01:30:46+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=3&oldpassword=12345678&newpassword=181924
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000856s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001112s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 3 ) LIMIT 1   [ RunTime:0.000296s ]
+SQL: UPDATE `hd_user` SET `password`='181924' WHERE ( `userid` = 3 ) [ RunTime:0.000261s ]
+
+[ 2017-08-06T01:33:15+08:00 ] 0.0.0.0 /think/index.php/Login?code=011b857E1Sl2t00sO86E1oX87E1b857r
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001706s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001947s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:34:10+08:00 ] 0.0.0.0 /think/index.php/Login?code=061Uo8Te0fBR3y1sJNPe0gkjTe0Uo8TN
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001538s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001804s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001633s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:35:53+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=2423432&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000958s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001086s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:35:55+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000847s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000991s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002266s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000707s ]
+
+[ 2017-08-06T01:36:07+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=1&oldpassword=12345678&newpassword=11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000954s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:36:08+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002049s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002374s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001843s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000522s ]
+
+[ 2017-08-06T01:36:36+08:00 ] 0.0.0.0 /think/index.php/Login?code=021EWQsl140Fbi0Li4sl1oB7tl1EWQsL
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000767s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000917s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004188s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:36:49+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=213213&mobile=13016459405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000853s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001209s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:36:52+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016459405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001957s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001117s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016459405','12345678') [ RunTime:0.000229s ]
+
+[ 2017-08-06T01:37:06+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=3&oldpassword=12345678&newpassword=1111
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001265s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001515s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:37:31+08:00 ] 0.0.0.0 /think/index.php/Login?code=061ohiBc2X5rmC0qB6Bc2ebqBc2ohiBa
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000792s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000931s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:42:39+08:00 ] 0.0.0.0 /think/index.php/Login?code=041MIXm61kZIsR1lmNn61GdWm61MIXma
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000891s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001052s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T01:48:13+08:00 ] 0.0.0.0 /think/index.php/Login?code=051L7ChB1huAZg0EmfkB1RqIhB1L7ChM
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001023s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001166s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T02:01:22+08:00 ] 0.0.0.0 /think/index.php/Login?code=081Vlxst0eMjbb1Q7Rut0OvAst0VlxsP
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001990s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002333s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:01:23+08:00 ] 0.0.0.0 /think/index.php/Login?code=051KXP2e1pKIdv0JdM2e1auN2e1KXP29
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.024925s ]
+INFO: [ route_check ] --END-- [ RunTime:0.025284s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.038674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038853s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:02:30+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=324234&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000991s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001243s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:02:32+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001962s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002253s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002656s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.004714s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000923s ]
+
+[ 2017-08-06T11:02:45+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=1&oldpassword=12345678&newpassword=1213
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001060s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001202s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001448s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 1 ) LIMIT 1   [ RunTime:0.000303s ]
+SQL: UPDATE `hd_user` SET `password`='1213' WHERE ( `userid` = 1 ) [ RunTime:0.000438s ]
+
+[ 2017-08-06T11:02:46+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001312s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001547s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001911s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000584s ]
+
+[ 2017-08-06T11:06:00+08:00 ] 0.0.0.0 /think/index.php/Login?code=041kckro1svhAo0rDMto1ai3ro1kckr4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002962s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003211s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:06:09+08:00 ] 0.0.0.0 /think/index.php/Login?code=071Sqyr104btMC1fiIt10bSlr10Sqyrj
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000756s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000886s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:06:48+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=121212&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000919s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:06:49+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001914s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002189s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.003217s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('萌萌哒','13016458405','12345678') [ RunTime:0.000815s ]
+
+[ 2017-08-06T11:07:09+08:00 ] 0.0.0.0 /think/index.php/Login/setPassword?userid=1&oldpassword=12345678&newpassword=12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001144s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001340s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002169s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001123s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `password` FROM `hd_user` WHERE ( `userid` = 1 ) LIMIT 1   [ RunTime:0.000332s ]
+SQL: UPDATE `hd_user` SET `password`='12' WHERE ( `userid` = 1 ) [ RunTime:0.000370s ]
+
+[ 2017-08-06T11:22:43+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001094s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001281s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002661s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8] Use of undefined constant ‘13016458405’ - assumed '‘13016458405’' C:\wamp64\www\think\Index\Lib\Action\LoginAction.class.php 第 37 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000643s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs','‘13016458405’','12345678') [ RunTime:0.000295s ]
+
+[ 2017-08-06T11:23:10+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000784s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000941s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002181s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.020482s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:23:10+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000735s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001664s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000343s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:23:12+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001148s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001365s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002765s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000556s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:23:15+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001396s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001610s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001613s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000265s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:27:20+08:00 ] 0.0.0.0 /think/index.php/Login?code=011a7SVB0Le0jd2VnmXB0LN7WB0a7SVc
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001245s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001509s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:27:40+08:00 ] 0.0.0.0 /think/index.php/Login?code=041vwQ9C1uVQU10sYX9C13vG9C1vwQ9i
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001292s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001532s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:27:58+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=111&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000864s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:27:59+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001199s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001400s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002633s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000485s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:28:23+08:00 ] 0.0.0.0 /think/index.php/Login?code=041UmFBI15YAY405ixEI1LWGBI1UmFBH
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001402s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001555s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001233s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:28:33+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=231432&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001570s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001778s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:28:34+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002125s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001945s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000699s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:29:20+08:00 ] 0.0.0.0 /think/index.php/Login?code=061HYKdx0gYN4g1St0fx0H5Qdx0HYKdr
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001262s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001568s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:29:32+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=32432&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001317s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:29:32+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001069s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001270s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001673s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001937s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000517s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:29:59+08:00 ] 0.0.0.0 /think/index.php/Login?code=061pxKIB1qoggg0xgJLB1TUVIB1pxKIR
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000893s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001046s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:30:09+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=123455&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000777s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000900s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:30:10+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000963s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001113s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.002087s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000633s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:31:49+08:00 ] 0.0.0.0 /think/index.php/Login?code=051C5w9f2hV6MD0pQW5f2ykp9f2C5w92
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002333s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002658s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002024s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:32:00+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=12321342&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000831s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000963s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:32:02+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002217s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002589s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.001035s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.000515s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+
+[ 2017-08-06T11:33:09+08:00 ] 0.0.0.0 /think/index.php/Login?code=041BIuhE0HLNDf2zS6hE0ZHNhE0BIuhV
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000786s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000930s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:46:10+08:00 ] 0.0.0.0 /think/index.php/Login?code=061VF46A0shHOh15fy6A0saj6A0VF46F
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001080s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001212s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T11:46:25+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=243243&mobile=13016458405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001220s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001397s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.000949s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `userid` FROM `hd_user` WHERE ( `usertel` = '13016458405' ) LIMIT 1   [ RunTime:0.000374s ]
+
+[ 2017-08-06T12:00:16+08:00 ] 0.0.0.0 /think/index.php/Login?code=07123cpf11AgGx0qZamf1fvkpf123cpd
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.045896s ]
+INFO: [ route_check ] --END-- [ RunTime:0.046273s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.036373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036760s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T12:01:10+08:00 ] 0.0.0.0 /think/index.php/Login?code=0211ZCKA1PUSAh0iMkIA1JwuKA11ZCKR
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000761s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000899s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T12:36:22+08:00 ] 0.0.0.0 /think/index.php/Login?code=011jMVKo1t5cUo0VKNLo15E0Lo1jMVK9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011085s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011440s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004569s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T12:36:46+08:00 ] 0.0.0.0 /think/index.php/Login?code=071iONrY1iqQbV0KtkqY1up3sY1iONr-
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001537s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001720s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T12:38:03+08:00 ] 0.0.0.0 /think/index.php/Login?code=031uEjbP0D4bm821VQdP0vPAbP0uEjbx
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000765s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000934s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T12:39:37+08:00 ] 0.0.0.0 /think/index.php/Login?code=081fs7Qq0dX3Jq1VZnPq0Du5Qq0fs7Q-
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001183s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001323s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T14:06:39+08:00 ] 0.0.0.0 /think/index.php/Login?code=041PTLGV0qEEOX1aOfGV0LcxGV0PTLGv
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.022804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023066s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004305s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T14:07:38+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck?mobile=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000763s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+
+[ 2017-08-06T14:07:43+08:00 ] 0.0.0.0 /think/index.php/PhoneCheck/check?code=23213&mobile=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001035s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001170s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001534s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.140717s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `userid` FROM `hd_user` WHERE ( `usertel` = '13992128496' ) LIMIT 1   [ RunTime:0.014686s ]
+
+[ 2017-08-06T14:07:44+08:00 ] 0.0.0.0 /think/index.php/Login/insertUserInfo?username=%E8%90%8C%E8%90%8C%E5%93%92&tel=13992128496
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002026s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002522s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\think\think_php\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Extend\Driver\Session\SessionDb.class.php 第 100 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\think\think_php\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `hd_user` [ RunTime:0.077429s ]
+SQL: INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678') [ RunTime:0.038647s ]
+ERR: 1062:Duplicate entry '13016458405' for key 'usertel'
+ [ SQL语句 ] : INSERT INTO `hd_user` (`username`,`usertel`,`password`) VALUES ('hshs',13016458405,'12345678')
+

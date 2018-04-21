@@ -1,0 +1,5 @@
+[ 2017-07-26T15:42:50+08:00 ] 0.0.0.0 /think/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023900s ]
+

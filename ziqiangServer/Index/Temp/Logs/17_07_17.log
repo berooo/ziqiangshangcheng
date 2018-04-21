@@ -1,0 +1,27 @@
+[ 2017-07-17T15:49:34+08:00 ] 0.0.0.0 /think/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001183s ]
+
+[ 2017-07-17T15:57:34+08:00 ] 0.0.0.0 /think/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+
+[ 2017-07-17T16:03:45+08:00 ] 0.0.0.0 /think/index.php?m=show&a=abc
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+ERR: 无法加载模块:show
+
+[ 2017-07-17T16:03:57+08:00 ] 0.0.0.0 /think/index.php?m=Show&a=abc
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001563s ]
+ERR: 无法加载模块:Show
+
+[ 2017-07-17T21:12:39+08:00 ] 0.0.0.0 /think/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.026132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026714s ]
+
